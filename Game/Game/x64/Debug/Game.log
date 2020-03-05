@@ -1,0 +1,7 @@
+﻿  SpriteAnimation.cpp
+  Source.cpp
+  Monster.cpp
+  Avatar.cpp
+  Generating Code...
+d:\downloads\prototype-master (9)\prototype-master\game\game\source.cpp(438): warning C4715: 'match': not all control paths return a value
+  Game.vcxproj -> D:\Downloads\Prototype-master (9)\Prototype-master\Game\x64\Debug\Game.exe
